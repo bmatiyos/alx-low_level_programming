@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* betty style doc for function main goes there */
-/*
+/**
  * main -Entry point
  *
  * Return: Always 0 (success)
  */
 int main(void)
 {
+	/*the variabl n will stire a different value every time*/
 	int n;
 
 	srand(time(0));
