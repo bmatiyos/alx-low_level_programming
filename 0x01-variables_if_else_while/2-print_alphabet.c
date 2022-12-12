@@ -2,18 +2,19 @@
 /**
  * main - Entry point
  *
- * Return: Always 0
+ * Return: Always 0 (success)
 */
 int main(void)
 {
 	char c;
 
-	while (c >= 'a')
+	c = 'a';
+	while (c = 'z')
 	{
 		putchar(c);
-		c--;
+		c++;
 	}
 	putcher('\n');
-	return(0);
+	return (0);
 }
 
