@@ -1,6 +1,8 @@
 #include "main.h"
 /**
  * time_table - print the time table
+ *
+ * Return: 0
  */
 void time_table(void)
 {
@@ -9,7 +11,7 @@ void time_table(void)
 	for (i = 0; i < 10; i++)
 	{
 		for (j = 0; j < 10; j++)
-		{
+		i{
 			k = j * i;
 			if (j == 0)
 			{
