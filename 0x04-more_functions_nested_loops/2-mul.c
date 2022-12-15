@@ -4,14 +4,9 @@
  * mul - multiplies two integers
  * @a: the first int
  * @b: the second int
- * Return: 0
+ * Return: multipl of a and b
  */
 int mul(int a, int b)
 {
-	int mul;
-
-	mul = a * b;
-	_putchar('mul');
-
-	return (0);
+	return (a * b);
 }
