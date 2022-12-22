@@ -1,4 +1,4 @@
-#invlude "main.h"
+#include "main.h"
 /**
  * _strcmp - function that compares two stringd
  * @s1: primery cadena
