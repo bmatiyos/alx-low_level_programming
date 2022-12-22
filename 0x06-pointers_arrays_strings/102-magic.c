@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ * main - Add one line to this code
+ * Return: 0
+ */
 int main(void)
 {
 	int n;
