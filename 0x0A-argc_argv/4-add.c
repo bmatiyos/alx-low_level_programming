@@ -4,7 +4,7 @@
  * main - Prints the addition of positive numbers,
  * @argc: The number of arguments passed to the program.
  * @argv: An array of pointers to the arguments.
- * Return: If one of the numbers contains symbols that are non-digits - 1 else -0
+ * Return: symbols that are non-digits - 1 else -0
  */
 int main(int argc, char *argv[])
 {
